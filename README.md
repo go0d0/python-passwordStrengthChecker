@@ -14,7 +14,7 @@
 * **Interactive CLI:** Prompts the user for password input and provides immediate feedback.
 * **Score-based evaluation:** Starts at a score of 5 and decrements for each unmet criterion.
 
-For more detailed documentation, please visit the [DeepWiki page](https://deepwiki.com/go0d0/benice).
+For more detailed documentation, please visit this [page](https://deepwiki.com/go0d0/benice).
 
 ## Repository Structure
 
